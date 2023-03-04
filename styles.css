@@ -127,14 +127,20 @@ a {
     margin: 100px;
 }
 .contact-sub{
+    margin:auto;
+    width:50%;
+    text-align:center;
     margin-bottom: 50px;
     word-spacing: 2px;
 }
 .contact-para{
+    margin:auto;
+    width:50%;
+    text-align:center;
     margin-bottom: 100px;
 }
 .btn{
-    
+    margin:auto;
     font-family: "Montserrat", sans-serif;
     text-decoration: none;
     background-color: #45b0b4;
